@@ -1,0 +1,3 @@
+hello git
+test message
+custom status 1
