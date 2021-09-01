@@ -1,3 +1,3 @@
 hello git
 test message
-custom status 3
+custom status 2
